@@ -13,7 +13,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7dbe92-9dd8-4f46-8117-d7660765afed" name="更改" comment="/" />
+    <list default="true" id="0b7dbe92-9dd8-4f46-8117-d7660765afed" name="更改" comment="Update workspace.xml">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2021_8_13,_8_15_上午_取消提交了变更_[更改]/shelved.patch" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,8 +24,12 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="IceHidden &lt;xwh436016960@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="PUSH_TAGS">
       <GitPushTagMode>
@@ -55,9 +61,15 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="tasks.servers" />
   </component>
   <component name="RunManager" selected="CMake 应用程序.p9-2">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled3" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled3" RUN_TARGET_NAME="main">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -94,7 +106,12 @@
       <updated>1628798615967</updated>
       <workItem from="1628798617690" duration="239000" />
       <workItem from="1628798873283" duration="5060000" />
-      <workItem from="1628807734025" duration="735000" />
+      <workItem from="1628807734025" duration="3392000" />
+      <workItem from="1628812158650" duration="314000" />
+      <workItem from="1628813814225" duration="370000" />
+      <workItem from="1628814295396" duration="55000" />
+      <workItem from="1628814355172" duration="2310000" />
+      <workItem from="1628819225379" duration="1000" />
     </task>
     <task id="LOCAL-00001" summary="/">
       <created>1628799079998</created>
@@ -117,8 +134,24 @@
       <option name="project" value="LOCAL" />
       <updated>1628799997195</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
-    <servers />
+    <task id="LOCAL-00004" summary="Update workspace.xml">
+      <created>1628818997313</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1628818997313</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update workspace.xml">
+      <created>1628819009071</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1628819009071</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers>
+      <GitHub shared="true" url="https://github.com" />
+    </servers>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
@@ -137,7 +170,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="/" />
-    <option name="LAST_COMMIT_MESSAGE" value="/" />
+    <MESSAGE value="Update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update workspace.xml" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
