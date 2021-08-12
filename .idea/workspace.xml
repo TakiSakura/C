@@ -13,14 +13,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7dbe92-9dd8-4f46-8117-d7660765afed" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/untitled2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/untitled3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/p9-2.c" beforeDir="false" afterPath="$PROJECT_DIR$/p9-2.c" afterDir="false" />
-    </list>
+    <list default="true" id="0b7dbe92-9dd8-4f46-8117-d7660765afed" name="更改" comment="/" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,8 +91,16 @@
       <option name="presentableId" value="Default" />
       <updated>1628798615967</updated>
       <workItem from="1628798617690" duration="239000" />
-      <workItem from="1628798873283" duration="6000" />
+      <workItem from="1628798873283" duration="989000" />
     </task>
+    <task id="LOCAL-00001" summary="/">
+      <created>1628799079998</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628799079998</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +117,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="/" />
+    <option name="LAST_COMMIT_MESSAGE" value="/" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
