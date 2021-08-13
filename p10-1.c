@@ -8,4 +8,6 @@ int main()
     printf("%d\n",a<=b+1);
     printf("%d\n",'a'+'b'<='c');
     printf("%d\n",(a=3)>(b=5));
+
+    return 0;
 }
