@@ -8,3 +8,5 @@ add_executable(p9-1 p9-1.c)
 
 add_executable(p9-2 p9-2.c)
 add_executable(p10-1 p10-1.c)
+add_executable(p10-2 p10-2.c)
+add_executable(p10-3 p10-3.c)

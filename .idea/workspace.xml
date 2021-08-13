@@ -2,23 +2,22 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
+      <config projectName="untitled3" targetName="p10-3" />
+      <config projectName="untitled3" targetName="p10-2" />
       <config projectName="untitled3" targetName="p9-2" />
       <config projectName="untitled3" targetName="p10-1" />
       <config projectName="untitled3" targetName="p9-1" />
       <config projectName="untitled3" targetName="main" />
     </generated>
   </component>
-  <component name="CMakeSettings">
+  <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
       <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7dbe92-9dd8-4f46-8117-d7660765afed" name="更改" comment="Update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/p10-1.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p9-2.c" beforeDir="false" afterPath="$PROJECT_DIR$/p9-2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p10-3.c" beforeDir="false" afterPath="$PROJECT_DIR$/p10-3.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="tasks.servers" />
   </component>
-  <component name="RunManager" selected="CMake 应用程序.p10-1">
+  <component name="RunManager" selected="CMake 应用程序.p10-3">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
@@ -93,6 +92,16 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p10-2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled3" TARGET_NAME="p10-2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled3" RUN_TARGET_NAME="p10-2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p10-3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled3" TARGET_NAME="p10-3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled3" RUN_TARGET_NAME="p10-3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="p9-1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled3" TARGET_NAME="p9-1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled3" RUN_TARGET_NAME="p9-1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -106,6 +115,8 @@
     <list>
       <item itemvalue="CMake 应用程序.main" />
       <item itemvalue="CMake 应用程序.p10-1" />
+      <item itemvalue="CMake 应用程序.p10-2" />
+      <item itemvalue="CMake 应用程序.p10-3" />
       <item itemvalue="CMake 应用程序.p9-1" />
       <item itemvalue="CMake 应用程序.p9-2" />
     </list>
@@ -127,7 +138,7 @@
       <workItem from="1628814355172" duration="2310000" />
       <workItem from="1628819225379" duration="1000" />
       <workItem from="1628819796512" duration="115000" />
-      <workItem from="1628852413060" duration="879000" />
+      <workItem from="1628852413060" duration="3349000" />
     </task>
     <task id="LOCAL-00001" summary="/">
       <created>1628799079998</created>
@@ -178,7 +189,70 @@
       <option name="project" value="LOCAL" />
       <updated>1628819883636</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update workspace.xml">
+      <created>1628853523717</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1628853523717</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update workspace.xml">
+      <created>1628853540767</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1628853540767</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Update workspace.xml">
+      <created>1628853567071</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1628853567071</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Update workspace.xml">
+      <created>1628853571720</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1628853571720</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Update workspace.xml">
+      <created>1628863410743</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1628863410743</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Update workspace.xml">
+      <created>1628863454891</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1628863454891</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Update workspace.xml">
+      <created>1628863458003</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1628863458003</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Update workspace.xml">
+      <created>1628863557104</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1628863557104</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Update workspace.xml">
+      <created>1628863561688</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1628863561688</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers>
       <GitHub shared="true" url="https://github.com" />
     </servers>
