@@ -2,13 +2,19 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
+      <config projectName="untitled3" targetName="p12-demo" />
       <config projectName="untitled3" targetName="p10-3" />
       <config projectName="untitled3" targetName="p11-2" />
+      <config projectName="untitled3" targetName="p12-1" />
       <config projectName="untitled3" targetName="p10-2" />
       <config projectName="untitled3" targetName="p11-1" />
-      <config projectName="untitled3" targetName="p9-2" />
       <config projectName="untitled3" targetName="p10-1" />
+      <config projectName="untitled3" targetName="p12-5" />
       <config projectName="untitled3" targetName="p9-1" />
+      <config projectName="untitled3" targetName="p12-4" />
+      <config projectName="untitled3" targetName="p12-3" />
+      <config projectName="untitled3" targetName="p12-2" />
+      <config projectName="untitled3" targetName="p9-2" />
       <config projectName="untitled3" targetName="main" />
     </generated>
   </component>
@@ -19,8 +25,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7dbe92-9dd8-4f46-8117-d7660765afed" name="更改" comment="Merge remote-tracking branch 'origin/master'">
-      <change afterPath="$PROJECT_DIR$/p11-1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p11-2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p12-1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p12-2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p12-3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p12-3demo.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p12-4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p12-5.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
@@ -79,7 +89,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="CMake 应用程序.p11-1">
+  <component name="RunManager" selected="CMake 应用程序.p12-5">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
@@ -115,6 +125,36 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p12-1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled3" TARGET_NAME="p12-1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled3" RUN_TARGET_NAME="p12-1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p12-2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled3" TARGET_NAME="p12-2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled3" RUN_TARGET_NAME="p12-2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p12-3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled3" TARGET_NAME="p12-3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled3" RUN_TARGET_NAME="p12-3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p12-4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled3" TARGET_NAME="p12-4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled3" RUN_TARGET_NAME="p12-4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p12-5" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled3" TARGET_NAME="p12-5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled3" RUN_TARGET_NAME="p12-5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p12-demo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled3" TARGET_NAME="p12-demo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled3" RUN_TARGET_NAME="p12-demo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="p9-1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled3" TARGET_NAME="p9-1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled3" RUN_TARGET_NAME="p9-1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -137,6 +177,12 @@
       <item itemvalue="CMake 应用程序.p10-3" />
       <item itemvalue="CMake 应用程序.p11-1" />
       <item itemvalue="CMake 应用程序.p11-2" />
+      <item itemvalue="CMake 应用程序.p12-1" />
+      <item itemvalue="CMake 应用程序.p12-2" />
+      <item itemvalue="CMake 应用程序.p12-3" />
+      <item itemvalue="CMake 应用程序.p12-4" />
+      <item itemvalue="CMake 应用程序.p12-5" />
+      <item itemvalue="CMake 应用程序.p12-demo" />
       <item itemvalue="CMake 应用程序.p9-1" />
       <item itemvalue="CMake 应用程序.p9-2" />
     </list>
@@ -165,7 +211,7 @@
       <workItem from="1628978377897" duration="8000" />
       <workItem from="1628978394976" duration="246000" />
       <workItem from="1628994050924" duration="2492000" />
-      <workItem from="1629054601529" duration="4035000" />
+      <workItem from="1629054601529" duration="10610000" />
     </task>
     <task id="LOCAL-00001" summary="/">
       <created>1628799079998</created>
@@ -321,7 +367,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629058115269</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1629059846346</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1629059846346</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers>
       <GitHub shared="true" url="https://github.com" />
     </servers>
