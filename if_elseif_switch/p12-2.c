@@ -1,3 +1,4 @@
+//使用scan指令对输入的数据进行判断
 #include "stdio.h"
 
 int main()

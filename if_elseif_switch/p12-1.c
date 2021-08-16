@@ -1,3 +1,4 @@
+//switch语句
 #include "stdio.h"
 
 int main()

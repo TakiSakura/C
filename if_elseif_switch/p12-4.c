@@ -1,3 +1,4 @@
+//getchar()指令初见
 #include "stdio.h"
 
 int main()
@@ -7,7 +8,7 @@ int main()
     printf("是否有空?(Y/N)");
     scanf("%c",&isFree);
 
-    getchar();
+    getchar();//如果不加，程序会把后面的一起运行
 
     printf("是否下雨?(Y/N)");
     scanf("%c",&isRain);
