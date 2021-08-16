@@ -25,14 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7dbe92-9dd8-4f46-8117-d7660765afed" name="更改" comment="Merge remote-tracking branch 'origin/master'">
-      <change afterPath="$PROJECT_DIR$/p12-1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p12-2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p12-3.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p12-3demo.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p12-4.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p12-5.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,12 +82,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="CMake 应用程序.p12-5">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="CMake 应用程序.main">
     <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled3" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled3" RUN_TARGET_NAME="main">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -211,7 +199,9 @@
       <workItem from="1628978377897" duration="8000" />
       <workItem from="1628978394976" duration="246000" />
       <workItem from="1628994050924" duration="2492000" />
-      <workItem from="1629054601529" duration="10610000" />
+      <workItem from="1629054601529" duration="10936000" />
+      <workItem from="1629070743934" duration="800000" />
+      <workItem from="1629124523440" duration="1000" />
     </task>
     <task id="LOCAL-00001" summary="/">
       <created>1628799079998</created>
@@ -374,7 +364,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629059846346</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1629066700980</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1629066700980</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers>
       <GitHub shared="true" url="https://github.com" />
     </servers>

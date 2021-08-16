@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("调制方法!\n");
+    printf("测试输出和中文!\n");
     return 0;
 }
