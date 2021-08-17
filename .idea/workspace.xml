@@ -11,6 +11,7 @@
       <config projectName="untitled3" targetName="p10-1" />
       <config projectName="untitled3" targetName="p12-4" />
       <config projectName="untitled3" targetName="p13-3" />
+      <config projectName="untitled3" targetName="p14-2" />
       <config projectName="untitled3" targetName="p12-3" />
       <config projectName="untitled3" targetName="p13-2" />
       <config projectName="untitled3" targetName="p14-1" />
@@ -28,37 +29,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7dbe92-9dd8-4f46-8117-d7660765afed" name="更改" comment="Merge remote-tracking branch 'origin/master'">
-      <change afterPath="$PROJECT_DIR$/LuoJiMen/info/LuoJiMen" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LuoJiMen/info/YouXianJi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/for/info/for" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/for/p14-1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if_elseif_switch/info/else" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if_elseif_switch/info/else_if" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if_elseif_switch/info/if" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if_elseif_switch/info/switch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if_elseif_switch/info/switch的副本" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while_dowhile/info/do_while" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while_dowhile/info/while" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while_dowhile/p13-2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while_dowhile/p13-3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if_elseif_switch/p11-2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/test.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p10-1.c" beforeDir="false" afterPath="$PROJECT_DIR$/LuoJiMen/p10-1.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p10-2.c" beforeDir="false" afterPath="$PROJECT_DIR$/LuoJiMen/p10-2.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p10-3.c" beforeDir="false" afterPath="$PROJECT_DIR$/LuoJiMen/p10-3.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p11-1.c" beforeDir="false" afterPath="$PROJECT_DIR$/if_elseif_switch/p11-1.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p11-2.c" beforeDir="false" afterPath="$PROJECT_DIR$/if_elseif_switch/p11-2.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p12-1.c" beforeDir="false" afterPath="$PROJECT_DIR$/if_elseif_switch/p12-1.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p12-2.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/p12-3.c" beforeDir="false" afterPath="$PROJECT_DIR$/if_elseif_switch/p12-3.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p12-3demo.c" beforeDir="false" afterPath="$PROJECT_DIR$/if_elseif_switch/p12-3demo.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p12-4.c" beforeDir="false" afterPath="$PROJECT_DIR$/if_elseif_switch/p12-4.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p12-5.c" beforeDir="false" afterPath="$PROJECT_DIR$/if_elseif_switch/p12-2.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p13-1.c" beforeDir="false" afterPath="$PROJECT_DIR$/while_dowhile/p13-1.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p9-1.c" beforeDir="false" afterPath="$PROJECT_DIR$/Math/p09-1.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p9-2.c" beforeDir="false" afterPath="$PROJECT_DIR$/Math/p09-2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Math/p09-1.c" beforeDir="false" afterPath="$PROJECT_DIR$/Mathematical/p09-1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Math/p09-2.c" beforeDir="false" afterPath="$PROJECT_DIR$/Mathematical/p09-2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/while_dowhile/info/do_while" beforeDir="false" afterPath="$PROJECT_DIR$/while_do_while/info/do_while" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/while_dowhile/info/while" beforeDir="false" afterPath="$PROJECT_DIR$/while_do_while/info/while" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/while_dowhile/p13-1.c" beforeDir="false" afterPath="$PROJECT_DIR$/while_do_while/p13-1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/while_dowhile/p13-2.c" beforeDir="false" afterPath="$PROJECT_DIR$/while_do_while/p13-2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/while_dowhile/p13-3.c" beforeDir="false" afterPath="$PROJECT_DIR$/while_do_while/p13-3.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +76,7 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/while_dowhile/p13-3.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/while_do_while/p13-3.c" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1wdq3ihjtW9DZ8GUuod3W7kUQec" />
   <component name="ProjectLevelVcsManager">
@@ -126,7 +107,7 @@
       <recent name="$PROJECT_DIR$/Yu_Huo_Fei" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake 应用程序.p14-1">
+  <component name="RunManager" selected="CMake 应用程序.p14-2">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
@@ -222,6 +203,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p14-2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled3" TARGET_NAME="p14-2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled3" RUN_TARGET_NAME="p14-2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="CMake 应用程序.main" />
       <item itemvalue="CMake 应用程序.p09-1" />
@@ -240,6 +226,7 @@
       <item itemvalue="CMake 应用程序.p13-2" />
       <item itemvalue="CMake 应用程序.p13-3" />
       <item itemvalue="CMake 应用程序.p14-1" />
+      <item itemvalue="CMake 应用程序.p14-2" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
@@ -269,7 +256,7 @@
       <workItem from="1629054601529" duration="10936000" />
       <workItem from="1629070743934" duration="800000" />
       <workItem from="1629124523440" duration="912000" />
-      <workItem from="1629150243480" duration="7729000" />
+      <workItem from="1629150243480" duration="9981000" />
     </task>
     <task id="LOCAL-00001" summary="/">
       <created>1628799079998</created>
@@ -453,7 +440,21 @@
       <option name="project" value="LOCAL" />
       <updated>1629150656943</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1629161135468</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1629161135468</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1629162939196</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1629162939196</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers>
       <GitHub shared="true" url="https://github.com" />
     </servers>
