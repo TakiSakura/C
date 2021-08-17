@@ -9,6 +9,7 @@
       <config projectName="untitled3" targetName="p10-2" />
       <config projectName="untitled3" targetName="p11-1" />
       <config projectName="untitled3" targetName="p10-1" />
+      <config projectName="untitled3" targetName="p14-3" />
       <config projectName="untitled3" targetName="p12-4" />
       <config projectName="untitled3" targetName="p13-3" />
       <config projectName="untitled3" targetName="p14-2" />
@@ -18,6 +19,8 @@
       <config projectName="untitled3" targetName="p12-2" />
       <config projectName="untitled3" targetName="p13-1" />
       <config projectName="untitled3" targetName="p09-1" />
+      <config projectName="untitled3" targetName="p14-5" />
+      <config projectName="untitled3" targetName="p14-4" />
       <config projectName="untitled3" targetName="p09-2" />
       <config projectName="untitled3" targetName="main" />
     </generated>
@@ -29,17 +32,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7dbe92-9dd8-4f46-8117-d7660765afed" name="更改" comment="Merge remote-tracking branch 'origin/master'">
-      <change afterPath="$PROJECT_DIR$/if_elseif_switch/p11-2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for/p14-3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for/p14-4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for/p14-5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if_elseif_switch/p12-1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Math/p09-1.c" beforeDir="false" afterPath="$PROJECT_DIR$/Mathematical/p09-1.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Math/p09-2.c" beforeDir="false" afterPath="$PROJECT_DIR$/Mathematical/p09-2.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/while_dowhile/info/do_while" beforeDir="false" afterPath="$PROJECT_DIR$/while_do_while/info/do_while" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/while_dowhile/info/while" beforeDir="false" afterPath="$PROJECT_DIR$/while_do_while/info/while" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/while_dowhile/p13-1.c" beforeDir="false" afterPath="$PROJECT_DIR$/while_do_while/p13-1.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/while_dowhile/p13-2.c" beforeDir="false" afterPath="$PROJECT_DIR$/while_do_while/p13-2.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/while_dowhile/p13-3.c" beforeDir="false" afterPath="$PROJECT_DIR$/while_do_while/p13-3.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,13 +100,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/for/" />
       <recent name="$PROJECT_DIR$/Math" />
       <recent name="$PROJECT_DIR$/uuu" />
       <recent name="$PROJECT_DIR$/if_elseif_switch" />
       <recent name="$PROJECT_DIR$/Yu_Huo_Fei" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake 应用程序.p14-2">
+  <component name="RunManager" selected="CMake 应用程序.p14-5">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
@@ -208,6 +208,21 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p14-3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled3" TARGET_NAME="p14-3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled3" RUN_TARGET_NAME="p14-3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p14-4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled3" TARGET_NAME="p14-4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled3" RUN_TARGET_NAME="p14-4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p14-5" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled3" TARGET_NAME="p14-5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled3" RUN_TARGET_NAME="p14-5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="CMake 应用程序.main" />
       <item itemvalue="CMake 应用程序.p09-1" />
@@ -227,6 +242,9 @@
       <item itemvalue="CMake 应用程序.p13-3" />
       <item itemvalue="CMake 应用程序.p14-1" />
       <item itemvalue="CMake 应用程序.p14-2" />
+      <item itemvalue="CMake 应用程序.p14-3" />
+      <item itemvalue="CMake 应用程序.p14-4" />
+      <item itemvalue="CMake 应用程序.p14-5" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
@@ -256,7 +274,7 @@
       <workItem from="1629054601529" duration="10936000" />
       <workItem from="1629070743934" duration="800000" />
       <workItem from="1629124523440" duration="912000" />
-      <workItem from="1629150243480" duration="9981000" />
+      <workItem from="1629150243480" duration="14244000" />
     </task>
     <task id="LOCAL-00001" summary="/">
       <created>1628799079998</created>
@@ -454,7 +472,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629162939196</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1629163398043</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1629163398043</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers>
       <GitHub shared="true" url="https://github.com" />
     </servers>
