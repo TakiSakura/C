@@ -117,6 +117,45 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named p12-3demo
+
+# Build rule for target.
+p12-3demo: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 p12-3demo
+.PHONY : p12-3demo
+
+# fast build rule for target.
+p12-3demo/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/p12-3demo.dir/build.make CMakeFiles/p12-3demo.dir/build
+.PHONY : p12-3demo/fast
+
+#=============================================================================
+# Target rules for targets named p10-1
+
+# Build rule for target.
+p10-1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 p10-1
+.PHONY : p10-1
+
+# fast build rule for target.
+p10-1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/p10-1.dir/build.make CMakeFiles/p10-1.dir/build
+.PHONY : p10-1/fast
+
+#=============================================================================
+# Target rules for targets named p14-5
+
+# Build rule for target.
+p14-5: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 p14-5
+.PHONY : p14-5
+
+# fast build rule for target.
+p14-5/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/p14-5.dir/build.make CMakeFiles/p14-5.dir/build
+.PHONY : p14-5/fast
+
+#=============================================================================
 # Target rules for targets named p13-2
 
 # Build rule for target.
@@ -143,19 +182,6 @@ p13-1/fast:
 .PHONY : p13-1/fast
 
 #=============================================================================
-# Target rules for targets named p12-3demo
-
-# Build rule for target.
-p12-3demo: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 p12-3demo
-.PHONY : p12-3demo
-
-# fast build rule for target.
-p12-3demo/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/p12-3demo.dir/build.make CMakeFiles/p12-3demo.dir/build
-.PHONY : p12-3demo/fast
-
-#=============================================================================
 # Target rules for targets named p12-2
 
 # Build rule for target.
@@ -167,6 +193,19 @@ p12-2: cmake_check_build_system
 p12-2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/p12-2.dir/build.make CMakeFiles/p12-2.dir/build
 .PHONY : p12-2/fast
+
+#=============================================================================
+# Target rules for targets named p12-4
+
+# Build rule for target.
+p12-4: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 p12-4
+.PHONY : p12-4
+
+# fast build rule for target.
+p12-4/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/p12-4.dir/build.make CMakeFiles/p12-4.dir/build
+.PHONY : p12-4/fast
 
 #=============================================================================
 # Target rules for targets named p11-2
@@ -208,19 +247,6 @@ p10-3/fast:
 .PHONY : p10-3/fast
 
 #=============================================================================
-# Target rules for targets named p14-5
-
-# Build rule for target.
-p14-5: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 p14-5
-.PHONY : p14-5
-
-# fast build rule for target.
-p14-5/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/p14-5.dir/build.make CMakeFiles/p14-5.dir/build
-.PHONY : p14-5/fast
-
-#=============================================================================
 # Target rules for targets named p13-3
 
 # Build rule for target.
@@ -232,6 +258,19 @@ p13-3: cmake_check_build_system
 p13-3/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/p13-3.dir/build.make CMakeFiles/p13-3.dir/build
 .PHONY : p13-3/fast
+
+#=============================================================================
+# Target rules for targets named p09-1
+
+# Build rule for target.
+p09-1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 p09-1
+.PHONY : p09-1
+
+# fast build rule for target.
+p09-1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/p09-1.dir/build.make CMakeFiles/p09-1.dir/build
+.PHONY : p09-1/fast
 
 #=============================================================================
 # Target rules for targets named p14-2
@@ -260,43 +299,17 @@ p14-4/fast:
 .PHONY : p14-4/fast
 
 #=============================================================================
-# Target rules for targets named p14-3
+# Target rules for targets named p12-3
 
 # Build rule for target.
-p14-3: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 p14-3
-.PHONY : p14-3
+p12-3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 p12-3
+.PHONY : p12-3
 
 # fast build rule for target.
-p14-3/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/p14-3.dir/build.make CMakeFiles/p14-3.dir/build
-.PHONY : p14-3/fast
-
-#=============================================================================
-# Target rules for targets named p14-1
-
-# Build rule for target.
-p14-1: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 p14-1
-.PHONY : p14-1
-
-# fast build rule for target.
-p14-1/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/p14-1.dir/build.make CMakeFiles/p14-1.dir/build
-.PHONY : p14-1/fast
-
-#=============================================================================
-# Target rules for targets named p12-4
-
-# Build rule for target.
-p12-4: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 p12-4
-.PHONY : p12-4
-
-# fast build rule for target.
-p12-4/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/p12-4.dir/build.make CMakeFiles/p12-4.dir/build
-.PHONY : p12-4/fast
+p12-3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/p12-3.dir/build.make CMakeFiles/p12-3.dir/build
+.PHONY : p12-3/fast
 
 #=============================================================================
 # Target rules for targets named p10-2
@@ -312,6 +325,45 @@ p10-2/fast:
 .PHONY : p10-2/fast
 
 #=============================================================================
+# Target rules for targets named p14-3
+
+# Build rule for target.
+p14-3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 p14-3
+.PHONY : p14-3
+
+# fast build rule for target.
+p14-3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/p14-3.dir/build.make CMakeFiles/p14-3.dir/build
+.PHONY : p14-3/fast
+
+#=============================================================================
+# Target rules for targets named demo
+
+# Build rule for target.
+demo: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 demo
+.PHONY : demo
+
+# fast build rule for target.
+demo/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/build
+.PHONY : demo/fast
+
+#=============================================================================
+# Target rules for targets named p14-1
+
+# Build rule for target.
+p14-1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 p14-1
+.PHONY : p14-1
+
+# fast build rule for target.
+p14-1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/p14-1.dir/build.make CMakeFiles/p14-1.dir/build
+.PHONY : p14-1/fast
+
+#=============================================================================
 # Target rules for targets named p12-1
 
 # Build rule for target.
@@ -325,19 +377,6 @@ p12-1/fast:
 .PHONY : p12-1/fast
 
 #=============================================================================
-# Target rules for targets named p10-1
-
-# Build rule for target.
-p10-1: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 p10-1
-.PHONY : p10-1
-
-# fast build rule for target.
-p10-1/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/p10-1.dir/build.make CMakeFiles/p10-1.dir/build
-.PHONY : p10-1/fast
-
-#=============================================================================
 # Target rules for targets named p09-2
 
 # Build rule for target.
@@ -349,32 +388,6 @@ p09-2: cmake_check_build_system
 p09-2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/p09-2.dir/build.make CMakeFiles/p09-2.dir/build
 .PHONY : p09-2/fast
-
-#=============================================================================
-# Target rules for targets named p09-1
-
-# Build rule for target.
-p09-1: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 p09-1
-.PHONY : p09-1
-
-# fast build rule for target.
-p09-1/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/p09-1.dir/build.make CMakeFiles/p09-1.dir/build
-.PHONY : p09-1/fast
-
-#=============================================================================
-# Target rules for targets named p12-3
-
-# Build rule for target.
-p12-3: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 p12-3
-.PHONY : p12-3
-
-# fast build rule for target.
-p12-3/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/p12-3.dir/build.make CMakeFiles/p12-3.dir/build
-.PHONY : p12-3/fast
 
 #=============================================================================
 # Target rules for targets named main
@@ -508,6 +521,30 @@ Mathematical/p09-2.s: Mathematical/p09-2.c.s
 Mathematical/p09-2.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/p09-2.dir/build.make CMakeFiles/p09-2.dir/Mathematical/p09-2.c.s
 .PHONY : Mathematical/p09-2.c.s
+
+demo.o: demo.c.o
+.PHONY : demo.o
+
+# target to build an object file
+demo.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/demo.c.o
+.PHONY : demo.c.o
+
+demo.i: demo.c.i
+.PHONY : demo.i
+
+# target to preprocess a source file
+demo.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/demo.c.i
+.PHONY : demo.c.i
+
+demo.s: demo.c.s
+.PHONY : demo.s
+
+# target to generate assembly for a file
+demo.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/demo.c.s
+.PHONY : demo.c.s
 
 for/p14-1.o: for/p14-1.c.o
 .PHONY : for/p14-1.o
@@ -901,6 +938,7 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
+	@echo "... demo"
 	@echo "... main"
 	@echo "... p09-1"
 	@echo "... p09-2"
@@ -937,6 +975,9 @@ help:
 	@echo "... Mathematical/p09-2.o"
 	@echo "... Mathematical/p09-2.i"
 	@echo "... Mathematical/p09-2.s"
+	@echo "... demo.o"
+	@echo "... demo.i"
+	@echo "... demo.s"
 	@echo "... for/p14-1.o"
 	@echo "... for/p14-1.i"
 	@echo "... for/p14-1.s"
