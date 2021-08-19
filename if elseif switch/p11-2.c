@@ -1,29 +1,20 @@
 //else if语句
 #include "stdio.h"
-int main()
-{
+
+int main() {
     int i;
     printf("请输入分数:");
-    scanf("%d",&i);
+    scanf("%d", &i);
 
-    if (i>=90)
-    {
+    if (i >= 90) {
         printf("A\n");
-    }
-    else if (i>=80 && i<90)
-    {
+    } else if (i >= 80 && i < 90) {
         printf("B\n");
-    }
-    else if (i>=70 && i<80)
-    {
+    } else if (i >= 70 && i < 80) {
         printf("C\n");
-    }
-    else if (i>=60 && i<70)
-    {
+    } else if (i >= 60 && i < 70) {
         printf("D\n");
-    }
-    else
-    {
+    } else {
         printf("E\n");
     }
     return 0;

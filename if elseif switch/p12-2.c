@@ -1,19 +1,15 @@
 //使用scan指令对输入的数据进行判断
 #include "stdio.h"
 
-int main()
-{
+int main() {
     char hasBF;
 
     printf("小花你有男朋友吗(Y/N)");
-    scanf("%c",&hasBF);
+    scanf("%c", &hasBF);
 
-    if (hasBF == 'Y')
-    {
+    if (hasBF == 'Y') {
         printf("那...祝福你们咯！\n");
-    }
-    else
-    {
+    } else {
         printf("那我们在一起吧！\n");
     }
 }

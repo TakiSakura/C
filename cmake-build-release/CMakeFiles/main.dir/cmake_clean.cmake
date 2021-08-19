@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/main.dir/test.c.o"
-  "main"
+  "CMakeFiles/main.dir/test.c.obj"
+  "libmain.dll.a"
+  "main.exe"
+  "main.exe.manifest"
   "main.pdb"
 )
 

@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/p10-2.dir/LuoJiMen/p10-2.c.o"
-  "p10-2"
+  "CMakeFiles/p10-2.dir/LuoJiMen/p10-2.c.obj"
+  "libp10-2.dll.a"
+  "p10-2.exe"
+  "p10-2.exe.manifest"
   "p10-2.pdb"
 )
 

@@ -1,3 +1,4 @@
+##c语言的运行目录，所有程序都应写在该目录的正确路径中
 cmake_minimum_required(VERSION 3.20)
 project(untitled3 C)
 
@@ -24,4 +25,8 @@ add_executable(p12-4 "if elseif switch/p12-4.c")
 add_executable(p13-1 "while_do while/p13-1.c")
 add_executable(p13-2 "while_do while/p13-2.c")
 add_executable(p13-3 "while_do while/p13-3.c")
-add_executable(demo demo.c)
+add_executable(xxx xxx.c)
+add_executable(p15-1 "break continue/p15-1.c")
+
+add_executable(fake_bool "for/How to use _Bool/fake_bool.c")
+add_executable(_Bool "for/How to use _Bool/_Bool.c")

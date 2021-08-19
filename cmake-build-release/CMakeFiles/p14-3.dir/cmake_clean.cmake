@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/p14-3.dir/for/p14-3.c.o"
-  "p14-3"
+  "CMakeFiles/p14-3.dir/for/p14-3.c.obj"
+  "libp14-3.dll.a"
+  "p14-3.exe"
+  "p14-3.exe.manifest"
   "p14-3.pdb"
 )
 

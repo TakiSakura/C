@@ -1,6 +1,8 @@
+//ÒÔ×î¼òµ¥µÄ´úÂëÀ´²âÊÔ³ÌÐòÊÇ·ñÄÜÕý³£ÔËÐÐ
+//ÓÐÊ±ºòÊä³öÖÐÎÄ»áÊÇÂÒÂë£¬ÐèÒª°ÑUTF-8¸ñÊ½×ª»»ÎªGBK
 #include <stdio.h>
 
 int main() {
-    printf("æµ‹è¯•è¾“å‡ºå’Œä¸­æ–‡!\n");
+    printf("²âÊÔÊä³öºÍÖÐÎÄ!\n");
     return 0;
 }
