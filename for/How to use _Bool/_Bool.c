@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h>//这个库可以先不管
 
 int main() {        //只有false和true。0为false;1或大于1为true
     _Bool a = 1;
@@ -12,9 +12,7 @@ int main() {        //只有false和true。0为false;1或大于1为true
     printf("c=%d\n", c);
     printf("d=%d\n", d);
 
-    printf("sizeof(_Bool) = %llu\n", sizeof(_Bool));
-
-    system("pause");
+    printf("sizeof(_Bool) = %d\n", sizeof(_Bool));//这里用了sizeof语句测量出布尔类型的大小为1(因为只有0和1）
 
     return 0;
 }
