@@ -8,1012 +8,1144 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p10-1">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p10-1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p10-1"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p10-1/fast">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p10-1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p10-1/fast"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="edit_cache">
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="main">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/main.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 main"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="main/fast">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/main.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 main/fast"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p10-3">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p10-3.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p10-3"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p10-3/fast">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p10-3.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p10-3/fast"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p09-1">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p09-1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p09-1"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p09-1/fast">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p09-1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p09-1/fast"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p09-2">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p09-2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p09-2"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p09-2/fast">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p09-2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p09-2/fast"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p12-4">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p12-4.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p12-4"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p12-4/fast">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p12-4.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p12-4/fast"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p10-2">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p10-2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p10-2"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p10-2/fast">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p10-2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p10-2/fast"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p14-1">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p14-1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p14-1"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p14-1/fast">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p14-1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p14-1/fast"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p14-2">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p14-2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p14-2"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p14-2/fast">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p14-2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p14-2/fast"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p14-3">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p14-3.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p14-3"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p14-3/fast">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p14-3.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p14-3/fast"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p14-4">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p14-4.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p14-4"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p14-4/fast">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p14-4.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p14-4/fast"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p14-5">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p14-5.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p14-5"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p14-5/fast">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p14-5.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p14-5/fast"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p11-1">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p11-1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p11-1"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p11-1/fast">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p11-1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p11-1/fast"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p11-2">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p11-2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p11-2"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p11-2/fast">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p11-2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p11-2/fast"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p12-1">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p12-1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p12-1"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p12-1/fast">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p12-1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p12-1/fast"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p12-2">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p12-2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p12-2"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p12-2/fast">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p12-2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p12-2/fast"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p12-3">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p12-3.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p12-3"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p12-3/fast">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p12-3.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p12-3/fast"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p12-3demo">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p12-3demo.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p12-3demo"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p12-3demo/fast">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p12-3demo.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p12-3demo/fast"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p13-1">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p13-1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p13-1"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p13-1/fast">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p13-1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p13-1/fast"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p13-2">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p13-2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p13-2"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p13-2/fast">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p13-2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p13-2/fast"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p13-3">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p13-3.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p13-3"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p13-3/fast">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p13-3.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p13-3/fast"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="xxx">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/xxx.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 xxx"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="xxx/fast">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/xxx.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 xxx/fast"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p15-1">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p15-1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p15-1"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="p15-1/fast">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/p15-1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 p15-1/fast"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="fake_bool">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/fake_bool.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 fake_bool"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="fake_bool/fast">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/fake_bool.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 fake_bool/fast"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="_Bool">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/_Bool.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 _Bool"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="_Bool/fast">
-				<Option output="C:/Users/Administrator/CLionProjects/C/cmake-build-release/_Bool.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 _Bool/fast"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/Administrator/CLionProjects/C/cmake-build-release"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/C/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p15-2">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p15-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p15-2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p15-2/fast">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p15-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p15-2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="_Bool">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/_Bool" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 _Bool"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="_Bool/fast">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/_Bool" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 _Bool/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fake_bool">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/fake_bool" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 fake_bool"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fake_bool/fast">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/fake_bool" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 fake_bool/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p15-1">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p15-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p15-1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p15-1/fast">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p15-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p15-1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="xxx">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/xxx" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 xxx"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="xxx/fast">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/xxx" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 xxx/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p10-1">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p10-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p10-1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p10-1/fast">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p10-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p10-1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p14-5">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p14-5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p14-5"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p14-5/fast">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p14-5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p14-5/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p13-2">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p13-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p13-2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p13-2/fast">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p13-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p13-2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p13-1">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p13-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p13-1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p13-1/fast">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p13-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p13-1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p12-3demo">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p12-3demo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p12-3demo"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p12-3demo/fast">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p12-3demo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p12-3demo/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p12-2">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p12-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p12-2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p12-2/fast">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p12-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p12-2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p12-4">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p12-4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p12-4"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p12-4/fast">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p12-4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p12-4/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p11-2">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p11-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p11-2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p11-2/fast">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p11-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p11-2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p15-3">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p15-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p15-3"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p15-3/fast">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p15-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p15-3/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p11-1">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p11-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p11-1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p11-1/fast">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p11-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p11-1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p10-3">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p10-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p10-3"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p10-3/fast">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p10-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p10-3/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p13-3">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p13-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p13-3"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p13-3/fast">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p13-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p13-3/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p09-1">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p09-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p09-1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p09-1/fast">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p09-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p09-1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p14-2">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p14-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p14-2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p14-2/fast">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p14-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p14-2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p14-4">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p14-4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p14-4"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p14-4/fast">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p14-4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p14-4/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p12-3">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p12-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p12-3"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p12-3/fast">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p12-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p12-3/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p10-2">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p10-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p10-2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p10-2/fast">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p10-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p10-2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p14-3">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p14-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p14-3"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p14-3/fast">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p14-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p14-3/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p14-1">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p14-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p14-1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p14-1/fast">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p14-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p14-1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p12-1">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p12-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p12-1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p12-1/fast">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p12-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p12-1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p09-2">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p09-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p09-2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p09-2/fast">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/p09-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 p09-2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main/fast">
+				<Option output="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Administrator/CLionProjects/C/LuoJiMen/p10-1.c">
+		<Unit filename="/Users/xiongwenhao/CLionProjects/untitled2/LuoJiMen/p10-1.c">
 			<Option target="p10-1"/>
 		</Unit>
-		<Unit filename="C:/Users/Administrator/CLionProjects/C/LuoJiMen/p10-2.c">
+		<Unit filename="/Users/xiongwenhao/CLionProjects/untitled2/LuoJiMen/p10-2.c">
 			<Option target="p10-2"/>
 		</Unit>
-		<Unit filename="C:/Users/Administrator/CLionProjects/C/LuoJiMen/p10-3.c">
+		<Unit filename="/Users/xiongwenhao/CLionProjects/untitled2/LuoJiMen/p10-3.c">
 			<Option target="p10-3"/>
 		</Unit>
-		<Unit filename="C:/Users/Administrator/CLionProjects/C/Mathematical/p09-1.c">
+		<Unit filename="/Users/xiongwenhao/CLionProjects/untitled2/Mathematical/p09-1.c">
 			<Option target="p09-1"/>
 		</Unit>
-		<Unit filename="C:/Users/Administrator/CLionProjects/C/Mathematical/p09-2.c">
+		<Unit filename="/Users/xiongwenhao/CLionProjects/untitled2/Mathematical/p09-2.c">
 			<Option target="p09-2"/>
 		</Unit>
-		<Unit filename="C:/Users/Administrator/CLionProjects/C/break continue/p15-1.c">
+		<Unit filename="/Users/xiongwenhao/CLionProjects/untitled2/break continue/p15-1.c">
 			<Option target="p15-1"/>
 		</Unit>
-		<Unit filename="C:/Users/Administrator/CLionProjects/C/for/How to use _Bool/_Bool.c">
+		<Unit filename="/Users/xiongwenhao/CLionProjects/untitled2/break continue/p15-2.c">
+			<Option target="p15-2"/>
+		</Unit>
+		<Unit filename="/Users/xiongwenhao/CLionProjects/untitled2/break continue/p15-3.c">
+			<Option target="p15-3"/>
+		</Unit>
+		<Unit filename="/Users/xiongwenhao/CLionProjects/untitled2/for/How to use _Bool/_Bool.c">
 			<Option target="_Bool"/>
 		</Unit>
-		<Unit filename="C:/Users/Administrator/CLionProjects/C/for/How to use _Bool/fake_bool.c">
+		<Unit filename="/Users/xiongwenhao/CLionProjects/untitled2/for/How to use _Bool/fake_bool.c">
 			<Option target="fake_bool"/>
 		</Unit>
-		<Unit filename="C:/Users/Administrator/CLionProjects/C/for/p14-1.c">
+		<Unit filename="/Users/xiongwenhao/CLionProjects/untitled2/for/p14-1.c">
 			<Option target="p14-1"/>
 		</Unit>
-		<Unit filename="C:/Users/Administrator/CLionProjects/C/for/p14-2.c">
+		<Unit filename="/Users/xiongwenhao/CLionProjects/untitled2/for/p14-2.c">
 			<Option target="p14-2"/>
 		</Unit>
-		<Unit filename="C:/Users/Administrator/CLionProjects/C/for/p14-3.c">
+		<Unit filename="/Users/xiongwenhao/CLionProjects/untitled2/for/p14-3.c">
 			<Option target="p14-3"/>
 		</Unit>
-		<Unit filename="C:/Users/Administrator/CLionProjects/C/for/p14-4.c">
+		<Unit filename="/Users/xiongwenhao/CLionProjects/untitled2/for/p14-4.c">
 			<Option target="p14-4"/>
 		</Unit>
-		<Unit filename="C:/Users/Administrator/CLionProjects/C/for/p14-5.c">
+		<Unit filename="/Users/xiongwenhao/CLionProjects/untitled2/for/p14-5.c">
 			<Option target="p14-5"/>
 		</Unit>
-		<Unit filename="C:/Users/Administrator/CLionProjects/C/if elseif switch/p11-1.c">
+		<Unit filename="/Users/xiongwenhao/CLionProjects/untitled2/if elseif switch/p11-1.c">
 			<Option target="p11-1"/>
 		</Unit>
-		<Unit filename="C:/Users/Administrator/CLionProjects/C/if elseif switch/p11-2.c">
+		<Unit filename="/Users/xiongwenhao/CLionProjects/untitled2/if elseif switch/p11-2.c">
 			<Option target="p11-2"/>
 		</Unit>
-		<Unit filename="C:/Users/Administrator/CLionProjects/C/if elseif switch/p12-1.c">
+		<Unit filename="/Users/xiongwenhao/CLionProjects/untitled2/if elseif switch/p12-1.c">
 			<Option target="p12-1"/>
 		</Unit>
-		<Unit filename="C:/Users/Administrator/CLionProjects/C/if elseif switch/p12-2.c">
+		<Unit filename="/Users/xiongwenhao/CLionProjects/untitled2/if elseif switch/p12-2.c">
 			<Option target="p12-2"/>
 		</Unit>
-		<Unit filename="C:/Users/Administrator/CLionProjects/C/if elseif switch/p12-3.c">
+		<Unit filename="/Users/xiongwenhao/CLionProjects/untitled2/if elseif switch/p12-3.c">
 			<Option target="p12-3"/>
 		</Unit>
-		<Unit filename="C:/Users/Administrator/CLionProjects/C/if elseif switch/p12-3demo.c">
+		<Unit filename="/Users/xiongwenhao/CLionProjects/untitled2/if elseif switch/p12-3demo.c">
 			<Option target="p12-3demo"/>
 		</Unit>
-		<Unit filename="C:/Users/Administrator/CLionProjects/C/if elseif switch/p12-4.c">
+		<Unit filename="/Users/xiongwenhao/CLionProjects/untitled2/if elseif switch/p12-4.c">
 			<Option target="p12-4"/>
 		</Unit>
-		<Unit filename="C:/Users/Administrator/CLionProjects/C/test.c">
+		<Unit filename="/Users/xiongwenhao/CLionProjects/untitled2/test.c">
 			<Option target="main"/>
 		</Unit>
-		<Unit filename="C:/Users/Administrator/CLionProjects/C/while_do while/p13-1.c">
+		<Unit filename="/Users/xiongwenhao/CLionProjects/untitled2/while_do while/p13-1.c">
 			<Option target="p13-1"/>
 		</Unit>
-		<Unit filename="C:/Users/Administrator/CLionProjects/C/while_do while/p13-2.c">
+		<Unit filename="/Users/xiongwenhao/CLionProjects/untitled2/while_do while/p13-2.c">
 			<Option target="p13-2"/>
 		</Unit>
-		<Unit filename="C:/Users/Administrator/CLionProjects/C/while_do while/p13-3.c">
+		<Unit filename="/Users/xiongwenhao/CLionProjects/untitled2/while_do while/p13-3.c">
 			<Option target="p13-3"/>
 		</Unit>
-		<Unit filename="C:/Users/Administrator/CLionProjects/C/xxx.c">
+		<Unit filename="/Users/xiongwenhao/CLionProjects/untitled2/xxx.c">
 			<Option target="xxx"/>
 		</Unit>
-		<Unit filename="C:/Users/Administrator/CLionProjects/C/CMakeLists.txt">
+		<Unit filename="/Users/xiongwenhao/CLionProjects/untitled2/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

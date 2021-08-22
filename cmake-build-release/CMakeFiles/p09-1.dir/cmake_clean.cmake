@@ -1,8 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/p09-1.dir/Mathematical/p09-1.c.obj"
-  "libp09-1.dll.a"
-  "p09-1.exe"
-  "p09-1.exe.manifest"
+  "CMakeFiles/p09-1.dir/Mathematical/p09-1.c.o"
+  "p09-1"
   "p09-1.pdb"
 )
 

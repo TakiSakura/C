@@ -1,3 +1,1 @@
-D:\IDE\apps\CLion\ch-0\212.4746.93\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\p14-4.dir/objects.a
-D:\MinGW\mingw64\bin\ar.exe cr CMakeFiles\p14-4.dir/objects.a @CMakeFiles\p14-4.dir\objects1.rsp
-D:\MinGW\mingw64\bin\gcc.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\p14-4.dir/objects.a -Wl,--no-whole-archive -o p14-4.exe -Wl,--out-implib,libp14-4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\p14-4.dir\linklibs.rsp
+/Library/Developer/CommandLineTools/usr/bin/cc -O3 -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/p14-4.dir/for/p14-4.c.o -o p14-4 

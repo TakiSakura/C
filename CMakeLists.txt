@@ -30,3 +30,5 @@ add_executable(p15-1 "break continue/p15-1.c")
 
 add_executable(fake_bool "for/How to use _Bool/fake_bool.c")
 add_executable(_Bool "for/How to use _Bool/_Bool.c")
+add_executable(p15-2 "break continue/p15-2.c")
+add_executable(p15-3 "break continue/p15-3.c")

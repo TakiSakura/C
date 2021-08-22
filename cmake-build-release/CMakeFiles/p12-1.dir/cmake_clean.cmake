@@ -1,8 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/p12-1.dir/if_elseif_switch/p12-1.c.obj"
-  "libp12-1.dll.a"
-  "p12-1.exe"
-  "p12-1.exe.manifest"
+  "CMakeFiles/p12-1.dir/if_elseif_switch/p12-1.c.o"
+  "p12-1"
   "p12-1.pdb"
 )
 

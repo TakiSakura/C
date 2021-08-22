@@ -1,8 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/p11-2.dir/if_elseif_switch/p11-2.c.obj"
-  "libp11-2.dll.a"
-  "p11-2.exe"
-  "p11-2.exe.manifest"
+  "CMakeFiles/p11-2.dir/if_elseif_switch/p11-2.c.o"
+  "p11-2"
   "p11-2.pdb"
 )
 

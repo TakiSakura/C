@@ -1,8 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/p13-1.dir/while_do_while/p13-1.c.obj"
-  "libp13-1.dll.a"
-  "p13-1.exe"
-  "p13-1.exe.manifest"
+  "CMakeFiles/p13-1.dir/while_do_while/p13-1.c.o"
+  "p13-1"
   "p13-1.pdb"
 )
 
