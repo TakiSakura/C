@@ -5,7 +5,7 @@ int main() {
     char isRain, isFree;
 
     printf("是否有空?(Y/N)");
-    scanf("%c", &isFree);
+    scanf("%c", &isFree);//上面用了char类型，所以后面百分号是%c而不是常见的%d
 
     getchar();//如果不加，程序会把后面的一起运行
 

@@ -117,6 +117,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named p16-3
+
+# Build rule for target.
+p16-3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 p16-3
+.PHONY : p16-3
+
+# fast build rule for target.
+p16-3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/p16-3.dir/build.make CMakeFiles/p16-3.dir/build
+.PHONY : p16-3/fast
+
+#=============================================================================
 # Target rules for targets named p15-2
 
 # Build rule for target.
@@ -128,6 +141,19 @@ p15-2: cmake_check_build_system
 p15-2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/p15-2.dir/build.make CMakeFiles/p15-2.dir/build
 .PHONY : p15-2/fast
+
+#=============================================================================
+# Target rules for targets named p16-1
+
+# Build rule for target.
+p16-1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 p16-1
+.PHONY : p16-1
+
+# fast build rule for target.
+p16-1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/p16-1.dir/build.make CMakeFiles/p16-1.dir/build
+.PHONY : p16-1/fast
 
 #=============================================================================
 # Target rules for targets named _Bool
@@ -284,6 +310,19 @@ p11-2: cmake_check_build_system
 p11-2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/p11-2.dir/build.make CMakeFiles/p11-2.dir/build
 .PHONY : p11-2/fast
+
+#=============================================================================
+# Target rules for targets named p16-2
+
+# Build rule for target.
+p16-2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 p16-2
+.PHONY : p16-2
+
+# fast build rule for target.
+p16-2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/p16-2.dir/build.make CMakeFiles/p16-2.dir/build
+.PHONY : p16-2/fast
 
 #=============================================================================
 # Target rules for targets named p15-3
@@ -586,6 +625,78 @@ Mathematical/p09-2.s: Mathematical/p09-2.c.s
 Mathematical/p09-2.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/p09-2.dir/build.make CMakeFiles/p09-2.dir/Mathematical/p09-2.c.s
 .PHONY : Mathematical/p09-2.c.s
+
+ShiYi/p16-1.o: ShiYi/p16-1.c.o
+.PHONY : ShiYi/p16-1.o
+
+# target to build an object file
+ShiYi/p16-1.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/p16-1.dir/build.make CMakeFiles/p16-1.dir/ShiYi/p16-1.c.o
+.PHONY : ShiYi/p16-1.c.o
+
+ShiYi/p16-1.i: ShiYi/p16-1.c.i
+.PHONY : ShiYi/p16-1.i
+
+# target to preprocess a source file
+ShiYi/p16-1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/p16-1.dir/build.make CMakeFiles/p16-1.dir/ShiYi/p16-1.c.i
+.PHONY : ShiYi/p16-1.c.i
+
+ShiYi/p16-1.s: ShiYi/p16-1.c.s
+.PHONY : ShiYi/p16-1.s
+
+# target to generate assembly for a file
+ShiYi/p16-1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/p16-1.dir/build.make CMakeFiles/p16-1.dir/ShiYi/p16-1.c.s
+.PHONY : ShiYi/p16-1.c.s
+
+ShiYi/p16-2.o: ShiYi/p16-2.c.o
+.PHONY : ShiYi/p16-2.o
+
+# target to build an object file
+ShiYi/p16-2.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/p16-2.dir/build.make CMakeFiles/p16-2.dir/ShiYi/p16-2.c.o
+.PHONY : ShiYi/p16-2.c.o
+
+ShiYi/p16-2.i: ShiYi/p16-2.c.i
+.PHONY : ShiYi/p16-2.i
+
+# target to preprocess a source file
+ShiYi/p16-2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/p16-2.dir/build.make CMakeFiles/p16-2.dir/ShiYi/p16-2.c.i
+.PHONY : ShiYi/p16-2.c.i
+
+ShiYi/p16-2.s: ShiYi/p16-2.c.s
+.PHONY : ShiYi/p16-2.s
+
+# target to generate assembly for a file
+ShiYi/p16-2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/p16-2.dir/build.make CMakeFiles/p16-2.dir/ShiYi/p16-2.c.s
+.PHONY : ShiYi/p16-2.c.s
+
+ShiYi/p16-3.o: ShiYi/p16-3.c.o
+.PHONY : ShiYi/p16-3.o
+
+# target to build an object file
+ShiYi/p16-3.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/p16-3.dir/build.make CMakeFiles/p16-3.dir/ShiYi/p16-3.c.o
+.PHONY : ShiYi/p16-3.c.o
+
+ShiYi/p16-3.i: ShiYi/p16-3.c.i
+.PHONY : ShiYi/p16-3.i
+
+# target to preprocess a source file
+ShiYi/p16-3.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/p16-3.dir/build.make CMakeFiles/p16-3.dir/ShiYi/p16-3.c.i
+.PHONY : ShiYi/p16-3.c.i
+
+ShiYi/p16-3.s: ShiYi/p16-3.c.s
+.PHONY : ShiYi/p16-3.s
+
+# target to generate assembly for a file
+ShiYi/p16-3.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/p16-3.dir/build.make CMakeFiles/p16-3.dir/ShiYi/p16-3.c.s
+.PHONY : ShiYi/p16-3.c.s
 
 break_continue/p15-1.o: break_continue/p15-1.c.o
 .PHONY : break_continue/p15-1.o
@@ -1149,6 +1260,9 @@ help:
 	@echo "... p15-1"
 	@echo "... p15-2"
 	@echo "... p15-3"
+	@echo "... p16-1"
+	@echo "... p16-2"
+	@echo "... p16-3"
 	@echo "... xxx"
 	@echo "... LuoJiMen/p10-1.o"
 	@echo "... LuoJiMen/p10-1.i"
@@ -1165,6 +1279,15 @@ help:
 	@echo "... Mathematical/p09-2.o"
 	@echo "... Mathematical/p09-2.i"
 	@echo "... Mathematical/p09-2.s"
+	@echo "... ShiYi/p16-1.o"
+	@echo "... ShiYi/p16-1.i"
+	@echo "... ShiYi/p16-1.s"
+	@echo "... ShiYi/p16-2.o"
+	@echo "... ShiYi/p16-2.i"
+	@echo "... ShiYi/p16-2.s"
+	@echo "... ShiYi/p16-3.o"
+	@echo "... ShiYi/p16-3.i"
+	@echo "... ShiYi/p16-3.s"
 	@echo "... break_continue/p15-1.o"
 	@echo "... break_continue/p15-1.i"
 	@echo "... break_continue/p15-1.s"
