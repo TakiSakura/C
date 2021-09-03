@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/xiongwenhao/CLionProjects/untitled2/break continue/p15-1.c" "/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/CMakeFiles/p15-1.dir/break_continue/p15-1.c.o"
+  "/Users/xiongwenhao/CLionProjects/Unit1/break continue/p15-1.c" "/Users/xiongwenhao/CLionProjects/Unit1/cmake-build-release/CMakeFiles/p15-1.dir/break_continue/p15-1.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

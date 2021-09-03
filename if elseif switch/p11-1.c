@@ -5,7 +5,7 @@ int main() {
     int i;
 
     printf("您老贵庚啊:");
-    scanf("%d", &i);
+    scanf("%d", &i);//扫描你输入的值
 
     if (i >= 18) {
         printf("进门左拐!\n");

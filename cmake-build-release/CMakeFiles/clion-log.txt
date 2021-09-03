@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/xiongwenhao/CLionProjects/untitled2
+"/Applications/CLion Intel.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Release -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/xiongwenhao/CLionProjects/Unit1
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release
+-- Build files have been written to: /Users/xiongwenhao/CLionProjects/Unit1/cmake-build-release

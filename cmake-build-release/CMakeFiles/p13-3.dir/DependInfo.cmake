@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/xiongwenhao/CLionProjects/untitled2/while_do while/p13-3.c" "/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/CMakeFiles/p13-3.dir/while_do_while/p13-3.c.o"
+  "/Users/xiongwenhao/CLionProjects/Unit1/while_do while/p13-3.c" "/Users/xiongwenhao/CLionProjects/Unit1/cmake-build-release/CMakeFiles/p13-3.dir/while_do_while/p13-3.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

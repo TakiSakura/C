@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/xiongwenhao/CLionProjects/untitled2/for/How to use _Bool/_Bool.c" "/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/CMakeFiles/_Bool.dir/for/How_to_use__Bool/_Bool.c.o"
+  "/Users/xiongwenhao/CLionProjects/Unit1/for/How to use _Bool/_Bool.c" "/Users/xiongwenhao/CLionProjects/Unit1/cmake-build-release/CMakeFiles/_Bool.dir/for/How_to_use__Bool/_Bool.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

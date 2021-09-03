@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/xiongwenhao/CLionProjects/untitled2/if elseif switch/p12-3.c" "/Users/xiongwenhao/CLionProjects/untitled2/cmake-build-release/CMakeFiles/p12-3.dir/if_elseif_switch/p12-3.c.o"
+  "/Users/xiongwenhao/CLionProjects/Unit1/if elseif switch/p12-3.c" "/Users/xiongwenhao/CLionProjects/Unit1/cmake-build-release/CMakeFiles/p12-3.dir/if_elseif_switch/p12-3.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

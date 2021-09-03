@@ -1,18 +1,9 @@
-#include <stdio.h>
+#include "stdio.h"
 
-int main(void) {
-
-    int count = 1;
-
-    while (count <= 300000000) {
-
-        if (count % 100000000 == 0) {
-
-            printf("Multiple is %d\n", count / 100000000);
-        }
-
-        ++count;
-    }
+int main() {
+    char a;
+    a = 67;
+    printf("无用的文字%c无用的文字", a);
 
     return 0;
 }

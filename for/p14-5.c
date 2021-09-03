@@ -6,7 +6,7 @@ int main() {
         for (int j = 1; j <= i; ++j) {
             printf("%d*%d=%-2d  ", i, j, i * j);
         }
-        putchar('\n');
+        putchar('\n');//放置一个换行符，就是里面循环一遍后，自动换行
     }
     return 0;
 }
